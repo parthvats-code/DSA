@@ -7,7 +7,7 @@ public:
 
         for (int i = 0; i < nums.size(); i++)
         {
-            int need = target - nums[i];
+            int need = target;
 
             if (mp.find(need) != mp.end())
             {
