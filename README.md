@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/parthvats-code/DSA/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/parthvats-code/DSA/tree/master/0234-palindrome-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -19,8 +20,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/parthvats-code/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/parthvats-code/DSA/tree/master/0125-valid-palindrome) |
+| [0234-palindrome-linked-list](https://github.com/parthvats-code/DSA/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/parthvats-code/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/parthvats-code/DSA/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/parthvats-code/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
