@@ -17,5 +17,10 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/parthvats-code/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/parthvats-code/DSA/tree/master/0125-valid-palindrome) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/parthvats-code/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
